@@ -1,0 +1,20 @@
+# Ignore ROS 2 build outputs
+build/
+install/
+log/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Colcon/ament generated files
+*.egg-info/
+*.log
+
+# VSCode / IDE
+.vscode/
+.idea/
+
+# macOS / Linux junk
+.DS_Store
+Thumbs.db

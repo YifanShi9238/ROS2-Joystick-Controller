@@ -20,14 +20,7 @@ def generate_launch_description():
             output='screen'
         ),
 
-        # # Launch your custom joystick listener node
-        # Node(
-        #     package='joystick_',
-        #     executable='joystick_listener',
-        #     name='joystick_listener',
-        #     output='screen'
-        # ),
-
+        # Launch the joystick controller node
         Node(
             package='joystick_reader',
             executable='joystick_controller',

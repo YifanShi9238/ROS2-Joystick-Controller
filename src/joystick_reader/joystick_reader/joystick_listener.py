@@ -5,7 +5,7 @@ from sensor_msgs.msg import Joy
 
 class JoystickListener(Node):
     def __init__(self):
-        super().__init__('joystick_test')
+        super().__init__('joystick_listener')
         self.subscription = self.create_subscription(
             Joy, '/joy', self.listener_callback, 10)
         self.subscription  # prevent unused variable warning

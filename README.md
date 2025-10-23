@@ -2,7 +2,7 @@
 The lightning_talk_demo branch is built for quick demostration and try out by any new-to-ROS2 developer with a controller that is compatible with the underlying operation system, typically Linux (playstation, xbox, etc) on joy package functionality on ROS2.  
 
 ## System Requirement
-This codebase is develop under **ROS2 Jazzy Jalisco** with **Python version 3.12**. To install ROS2 Jazzy, follow the installation steps in [ROS2 Jazzy Installation Official Guide](https://docs.ros.org/en/jazzy/Installation.html)
+This codebase is developed under **ROS2 Jazzy Jalisco** with **Python version 3.12**. To install ROS2 Jazzy, follow the installation steps in [ROS2 Jazzy Installation Official Guide](https://docs.ros.org/en/jazzy/Installation.html)
 
 ## Quick Start
 <pre>git clone https://github.com/YifanShi9238/ROS2-Joystick-Controller.git

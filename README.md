@@ -8,7 +8,7 @@ This codebase is developed under **ROS2 Jazzy Jalisco** with **Python version 3.
 <pre>```git clone https://github.com/YifanShi9238/ROS2-Joystick-Controller.git
 cd ROS2-Joystick-Controller
 git checkout lightning_talk_demo
-colcon build && . install/setup.bash```</pre>
+colcon build && . install/setup.bash</pre>
 
 ## Demo 1: Joystick Listener demo
 After plugged in controller, check usb connection of your controller by typing.

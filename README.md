@@ -12,8 +12,9 @@ git checkout lightning_talk_demo
 colcon build && . install/setup.bash</pre>
 
 ## Demo 1: Joystick Listener demo
-After plugged in controller 
-<pre>lsusb</pre> to check usb connection
+After plugged in controller, check usb connection of your controller by typing.
+<pre>lsusb</pre> 
+Then running
 <pre>ros2 run joy joy_node
 ros2 run joystick_reader joystick_listener</pre>
 <img width="2354" height="399" alt="Screenshot from 2025-10-21 22-52-58" src="https://github.com/user-attachments/assets/e7ad70bc-8ef2-43ee-9d1a-c32a067c7108" />

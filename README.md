@@ -25,8 +25,8 @@ ros2 run joystick_reader joystick_listener</pre>
 
 
 ## Resource
-For more information about joy packages, [joy - ROS Package Overview](https://index.ros.org/p/joy/#jazzy)
-For more information about turtlesim & rqt, [Turtlesim & rqt Guide](https://docs.ros.org/en/jazzy/Tutorials/Beginner-CLI-Tools/Introducing-Turtlesim/Introducing-Turtlesim.html)
+For more information about joy packages, [joy - ROS Package Overview](https://index.ros.org/p/joy/#jazzy).
+For more information about turtlesim & rqt, [Turtlesim & rqt Guide](https://docs.ros.org/en/jazzy/Tutorials/Beginner-CLI-Tools/Introducing-Turtlesim/Introducing-Turtlesim.html).
 
 ## License
 This project is licensed under the Apache License 2.0 — see the [LICENSE](./LICENSE) file for details.

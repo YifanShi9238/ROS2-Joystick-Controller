@@ -2,7 +2,7 @@
 The lightning_talk_demo branch is built for quick demostration and try out by any new-to-ROS2 developer with a controller that is compatible with the underlying operation system, typically Linux (playstation, xbox, etc) on joy package functionality on ROS2.  
 
 ## System Requirement
-This codebase is develop under ROS2 Jazzy Jalisco with Python version 3.12. To install ROS2 Jazzy, checkout ROS2 Jazzy Installation Official Guide: https://docs.ros.org/en/jazzy/Installation.html
+This codebase is develop under ROS2 Jazzy Jalisco with Python version 3.12. To install ROS2 Jazzy, follow the installation steps in [ROS2 Jazzy Installation Official Guide](https://docs.ros.org/en/jazzy/Installation.html)
 
 ## Quick Start
 <pre>git clone https://github.com/YifanShi9238/ROS2-Joystick-Controller.git
@@ -25,8 +25,8 @@ ros2 run joystick_reader joystick_listener</pre>
 
 
 ## Resource
-For more information about joy packages, checkout: https://index.ros.org/p/joy/#jazzy
-For more information about turtlesim & rqt, checkout: https://docs.ros.org/en/jazzy/Tutorials/Beginner-CLI-Tools/Introducing-Turtlesim/Introducing-Turtlesim.html
+For more information about joy packages, [joy - ROS Package Overview](https://index.ros.org/p/joy/#jazzy)
+For more information about turtlesim & rqt, [Turtlesim & rqt Guide](https://docs.ros.org/en/jazzy/Tutorials/Beginner-CLI-Tools/Introducing-Turtlesim/Introducing-Turtlesim.html)
 
 ## License
 This project is licensed under the Apache License 2.0 — see the [LICENSE](./LICENSE) file for details.

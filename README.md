@@ -26,7 +26,9 @@ ros2 run joystick_reader joystick_listener
 Figure 1. rqt_graph of the running nodes with one publisher and subscriber.
 
 ## Demo 2: Joystick Turtlesim demo
-<pre>ros2 launch joystick_reader turtle_joy.launch.py</pre>
+```
+ros2 launch joystick_reader turtle_joy.launch.py
+```
 <img width="2353" height="728" alt="Screenshot from 2025-10-21 21-30-14" src="https://github.com/user-attachments/assets/d440f16a-8bd9-443d-b99f-fd295990581f" />
 Figure 2. rqt_graph of the running nodes with two publishers and subscribers.
 

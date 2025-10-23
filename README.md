@@ -3,7 +3,6 @@ The lightning_talk_demo branch is built for quick demostration and try out by an
 
 ## System Requirement
 This codebase is develop under ROS2 Jazzy Jalisco with Python version 3.12. To install ROS2 Jazzy, checkout ROS2 Jazzy Installation Official Guide: https://docs.ros.org/en/jazzy/Installation.html
-<img width="307" height="283" alt="Screenshot from 2025-10-21 21-40-55" src="https://github.com/user-attachments/assets/8c64b7b6-ce8e-4276-a332-b784c0727226" />
 
 ## Quick Start
 <pre>git clone https://github.com/YifanShi9238/ROS2-Joystick-Controller.git

@@ -12,7 +12,7 @@ colcon build && . install/setup.bash```</pre>
 
 ## Demo 1: Joystick Listener demo
 After plugged in controller, check usb connection of your controller by typing.
-<pre>```lsusb```</pre> 
+<pre>`lsusb`</pre> 
 Then running
 <pre>```ros2 run joy joy_node
 ros2 run joystick_reader joystick_listener```</pre>

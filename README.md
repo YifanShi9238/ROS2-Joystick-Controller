@@ -5,17 +5,17 @@ The lightning_talk_demo branch is built for quick demostration and try out by an
 This codebase is developed under **ROS2 Jazzy Jalisco** with **Python version 3.12**. To install ROS2 Jazzy, follow the installation steps in [ROS2 Jazzy Installation Official Guide](https://docs.ros.org/en/jazzy/Installation.html)
 
 ## Quick Start
-<pre>git clone https://github.com/YifanShi9238/ROS2-Joystick-Controller.git
+<pre>```git clone https://github.com/YifanShi9238/ROS2-Joystick-Controller.git
 cd ROS2-Joystick-Controller
 git checkout lightning_talk_demo
-colcon build && . install/setup.bash</pre>
+colcon build && . install/setup.bash```</pre>
 
 ## Demo 1: Joystick Listener demo
 After plugged in controller, check usb connection of your controller by typing.
-<pre>lsusb</pre> 
+<pre>```lsusb```</pre> 
 Then running
-<pre>ros2 run joy joy_node
-ros2 run joystick_reader joystick_listener</pre>
+<pre>```ros2 run joy joy_node
+ros2 run joystick_reader joystick_listener```</pre>
 <img width="2354" height="399" alt="Screenshot from 2025-10-21 22-52-58" src="https://github.com/user-attachments/assets/e7ad70bc-8ef2-43ee-9d1a-c32a067c7108" />
 Figure 1. rqt_graph of the running nodes with one publisher and subscriber.
 

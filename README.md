@@ -29,7 +29,6 @@ Figure 1. rqt_graph of the running nodes with one publisher and subscriber.
 ```
 ros2 launch joystick_reader turtle_joy.launch.py
 ```
-<img width="1024" height="249" alt="Gazebo_logo" src="https://github.com/user-attachments/assets/0f31a0a7-d968-4185-a290-93ce720ebb45" />
 
 <img width="2353" height="728" alt="Screenshot from 2025-10-21 21-30-14" src="https://github.com/user-attachments/assets/d440f16a-8bd9-443d-b99f-fd295990581f" />
 Figure 2. rqt_graph of the running nodes with two publishers and subscribers.
